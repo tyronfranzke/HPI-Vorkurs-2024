@@ -8,7 +8,7 @@ Willkommen zum **HPI-Vorkurs 2024**! In diesem Repository findet ihr alle Übung
 
 ### Woche 1
 
-- [Tag 1: Mengen und Zahlen](./pdfs/Woche-1_Tag-1.pdf)
+- [Tag 1: Mengen und Zahlen](./woche-1/tag-1/aufgaben.pdf)
 - [Tag 2: LaTeX und mehr Brüche](./woche-1/tag-2/aufgaben.pdf)
 
 ---
