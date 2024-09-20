@@ -12,6 +12,7 @@ Willkommen zum **HPI-Vorkurs 2024**! In diesem Repository findet ihr alle Übung
 - [Tag 2: LaTeX und mehr Brüche](./woche-1/tag-2/aufgaben.pdf)
 - [Tag 3: Lineare Gleichungssysteme](./woche-1/tag-3/aufgaben.pdf)
 - [Tag 4: Logarithmen und Potenzen](./woche-1/tag-4/aufgaben.pdf)
+- [Tag 5: Rätsel und Primfaktorzerlegung](./woche-1/tag-5/aufgaben.pdf)
 
 ---
 
