@@ -14,6 +14,10 @@ Willkommen zum **HPI-Vorkurs 2024**! In diesem Repository findet ihr alle Übung
 - [Tag 4: Logarithmen und Potenzen](./woche-1/tag-4/aufgaben.pdf)
 - [Tag 5: Rätsel und Primfaktorzerlegung](./woche-1/tag-5/aufgaben.pdf)
 
+### Woche 2
+
+- [Tag 1: Computer & Terminal](./woche-2/tag-1/aufgaben.pdf)
+
 ---
 
 ## 🔗 Wichtige Links
