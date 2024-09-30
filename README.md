@@ -19,6 +19,9 @@ Willkommen zum **HPI-Vorkurs 2024**! In diesem Repository findet ihr alle Übung
 - [Tag 1: Computer & Terminal](./woche-2/tag-1/aufgaben.pdf)
 - [Tag 2: Ableiten](./woche-2/tag-2/aufgaben.pdf)
 - [Tag 3: Integrieren](./woche-2/tag-3/aufgaben.pdf)
+
+### Woche 3
+- [Tag 1: Kombinatorik](./woche-3/tag-1/aufgaben.pdf)
 ---
 
 
