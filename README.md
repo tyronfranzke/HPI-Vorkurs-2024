@@ -22,6 +22,8 @@ Willkommen zum **HPI-Vorkurs 2024**! In diesem Repository findet ihr alle Übung
 
 ### Woche 3
 - [Tag 1: Kombinatorik](./woche-3/tag-1/aufgaben.pdf)
+- [Tag 2: Git](./woche-3/tag-2/aufgaben.pdf)
+
 ---
 
 
